@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Bin Hu"
   avatar           : "bin_headshot.png"
-  bio              : "Assistang Professor"
-  employer         : "Department of Computer Science and Technology, \n\nHennings College of Science, Mathematics, and Technology, Kean University"
+  bio              : "Assistang Professor <br> Department of Computer Science and Technology, Kean University"
   location         : "1000 Morris Avenue, Union, NJ 07083"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=SrLu0TYAAAAJ&hl=en"
